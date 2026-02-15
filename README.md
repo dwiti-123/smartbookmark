@@ -42,5 +42,5 @@ I checked my code and reviewed the Supabase documentation and realized I had mix
 ## AI Usage
 
 AI was used to assist in generating UI components and layout ideas.
-![Untitled](https://github.com/user-attachments/assets/a966985b-a0b5-4e1d-8b1a-496448d15b9a)
 
+![Untitled](https://github.com/user-attachments/assets/b25a7f99-a265-4b84-a365-d2428933e5d0)
